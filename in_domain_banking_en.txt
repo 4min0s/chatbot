@@ -1,0 +1,102 @@
+🔹 ACCOUNTS – current / savings / operations
+
+How do I check my current account balance?
+Can I open a new current account online?
+What are the monthly fees for a current account?
+How do I update my contact information on my account?
+Where can I find my IBAN or account number?
+How can I download my account statement?
+Why was my account temporarily blocked?
+How do I set up salary direct deposit?
+Can I link my current account to a savings account?
+What are the daily withdrawal limits on my account?
+I received an unexpected fee on my account.
+How can I close my current account?
+What documents are required for a joint account?
+Is there a minimum balance requirement?
+How do I change the address linked to my account?
+How long does it take for a deposit to clear?
+Can I receive paper statements?
+How do I reset my online banking password?
+What happens if my account is overdrawn?
+Can I request an overdraft increase?
+How can I view my transaction history?
+What are the interest rates for savings accounts?
+How do I activate a newly opened account?
+Can I manage multiple accounts under one login?
+Are there fees for using other banks’ ATMs?
+“What is the balance of account ACC0001001?”
+
+“Is account ACC0002002 blocked and why?”
+
+“What is the overdraft limit on account ACC0003003?”
+
+
+🔹 CARDS – debit / credit / prepaid
+
+How do I activate my debit card?
+Can you give me credit card security tips?
+What should I do if my card is lost or stolen?
+How do I reset my card PIN?
+Why was my card payment declined?
+What are the spending limits on my card?
+How do I enable online card payments?
+Is my credit card protected against fraud?
+How do I block or unblock my card?
+Can I increase my card limit temporarily?
+How do I dispute an unauthorized card transaction?
+Are there fees for foreign card transactions?
+How does contactless payment work?
+How long does it take to receive a replacement card?
+How do I activate international card usage?
+Why is my card blocked after wrong PIN attempts?
+How can I change the phone number linked to my card?
+What are the fees for credit cards?
+Can I get a virtual card for online payments?
+How do I protect my card while traveling?
+“What is the fraud risk score for card CRD0000001?”
+
+“What is the status of card CRD0000002?”
+
+“Is e-commerce enabled on card CRD0000003?”
+
+“What is the daily ATM limit for card CRD0000004?”
+🔹 CLIENTS – access, security, profile, fraud
+
+I can’t log into my online banking account.
+I forgot my online banking username.
+How do I recover access to my account?
+Why am I not receiving OTP codes?
+How can I update my phone number?
+How do I report a suspicious transaction?
+What should I do if I suspect fraud?
+How does the bank protect my personal data?
+How do I change my email address?
+How do I contact customer support?
+How do I file a complaint?
+How can I protect myself from phishing attacks?
+What happens if suspicious activity is detected?
+How do I unlock my account after it is blocked?
+Can I opt out of marketing messages?
+What documents are required for identity verification?
+How long does fraud investigation take?
+How can I secure my account when traveling abroad?
+Does the bank ever ask for my PIN or OTP?
+How do I update my personal profile information?
+“What is the KYC risk score for client CLT000001?”
+what is the most popular bank amoung the clients 
+"most common bank"
+
+“Which governorate does client CLT000002 live in?”
+🔹 SECURITY & FRAUD (important for OOD boundary)
+
+How can I protect my account against fraud?
+What are common banking scams?
+How do I recognize phishing emails?
+What should I do if someone knows my password?
+How does two-factor authentication work?
+Is online banking secure?
+What security measures protect card payments?
+How do I report identity theft?
+Why was my transaction flagged as suspicious?
+How does the bank monitor fraudulent activity?
